@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @wawanmab
+- 👋 Hello, I’m wawan (@wawanmab)
+
+はじめまして
 
 
 
